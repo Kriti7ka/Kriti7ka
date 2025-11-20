@@ -51,8 +51,6 @@
 ---
 
 ## 📄 Resume
-👉 [**Download My Resume**](https://your-resume-link.com)  
-*(Replace the link with your actual resume URL)*
 
 ---
 
